@@ -65,3 +65,7 @@ npm install @prisma/client
 
 Para abrir uma interface grafica para ver os dados do banco
 npx prisma studio
+
+## Instalar o cors
+Permite que o front acesse a api
+npm install cors
